@@ -1,0 +1,22 @@
+body {
+	font-family: verdana, geneva, arial;
+}
+#targettext {
+    width: 400px;
+    height: auto;
+    margin: 5px;
+}
+#typing {
+    width: 400px;
+    height: 200px;
+    display: block;
+}
+#wpm {
+    width: 400px;
+}
+.g {
+    color: forestgreen;
+}
+.r {
+    color: red;
+}
